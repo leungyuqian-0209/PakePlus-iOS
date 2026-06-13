@@ -14,17 +14,17 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>西瓜卡通</string>
+			<string>Watermelon cartoon</string>
 			<key>PayloadDescription</key>
 			<string>Configuration Payload description</string>
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-CE611684626F</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-24152B9E52FB</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-CE611684626F</string>
+			<string>E0736409-C08F-4F54-86DA-24152B9E52FB</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -34,15 +34,15 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>西瓜卡通</string>
+	<string>Watermelon cartoon</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-CE611684626F</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-24152B9E52FB</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-CE611684626F</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-24152B9E52FB</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
